@@ -1,8 +1,17 @@
-# React + Vite
+# TaskFlow Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Deployed Link]()
 
-Currently, two official plugins are available:
+## Project Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+TaskFlow is a web application designed to help users manage their tasks efficiently. It provides a user-friendly interface to create, update, track tasks and view weather report of your city. The app is built using React, ensuring fast performance and a smooth user experience.
+
+## Features
+
+- Create, update, and delete tasks
+- Weather API support for Major Cities
+- Organize tasks by priorities
+- Set due dates
+- Mark tasks as completed
+- Responsive design for mobile and desktop
+
